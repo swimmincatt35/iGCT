@@ -101,7 +101,7 @@ Download the checkpoints from the [model_weights](https://drive.google.com/drive
 
 ## Contact
 
-For questions, feedback, or collaboration opportunities, feel free to reach out via email at [charleston87654321@gmail.com](mailto:charleston87654321@gmail.com).
+For questions, feedback, or collaboration opportunities, feel free to reach out via email at [charleston87654321@gmail.com](mailto:charleston87654321@gmail.com) or [chia_hong_hsu@brown.edu](mailto:chia_hong_hsu@brown.edu)
 
 ## Citation
 

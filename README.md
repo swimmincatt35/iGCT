@@ -12,7 +12,7 @@ To set up the environment, follow these steps:
 
 ### Using Python Virtual Environment
 ```bash
-python -m venv igct
+python -m venv igct  
 source igct/bin/activate
 ```
 

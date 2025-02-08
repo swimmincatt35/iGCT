@@ -99,6 +99,22 @@ model_weights/
 
 Download the checkpoints from the [model_weights](https://drive.google.com/drive/folders/11K5qHwl4I45vNOvN_nG3FfTjbjLnkmTW?usp=sharing) Google Drive link.
 
+## Testing Environment
+
+### CUDA Information
+- **CUDA Release Version**: 12.1
+- **NVCC Compiler Version**: V12.1.105
+
+### Operating System
+- **Distribution**: Red Hat Enterprise Linux (RHEL)
+- **Version**: 9.2
+- **Codename**: Plow
+- **Release**: 9.2
+
+### GPU Memory Requirements
+- CIFAR-10: Cluster of A100 (40GB), ~84 GPU days.
+- Imagenet64: Cluster of A100 (80GB) ~190 GPU days.
+
 ## Contact
 
 For questions, feedback, or collaboration opportunities, feel free to reach out via email at [charleston87654321@gmail.com](mailto:charleston87654321@gmail.com) or [chia_hong_hsu@brown.edu](mailto:chia_hong_hsu@brown.edu)

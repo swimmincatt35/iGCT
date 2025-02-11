@@ -1,6 +1,6 @@
 # Beyond and Free from Diffusion: Invertible Guided Consistency Training
 
-**Pytorch implementation for Invertible Guided Consistency Training (iGCT)** (arXiv coming soon).
+**Pytorch implementation for Invertible Guided Consistency Training (iGCT)** ([https://arxiv.org/abs/2502.05391](https://arxiv.org/abs/2502.05391)).
 
 We propose invertible Guided Consistency Training (iGCT), a diffusion independent approach that integrates guidance and inversion into Consistency Models. iGCT is a fully data-driven algorithm that enables fast guidance generation, fast inversion, and fast editing. 
 
@@ -121,9 +121,17 @@ For questions, feedback, or collaboration opportunities, feel free to reach out 
 
 ## Citation
 
-If you find this work useful, please consider citing our paper (arXiv link coming soon):
+If you find this work useful, please consider citing our paper:
 
 ```bibtex
+@misc{hsu2025freediffusioninvertibleguided,
+      title={Beyond and Free from Diffusion: Invertible Guided Consistency Training}, 
+      author={Chia-Hong Hsu and Shiu-hong Kao and Randall Balestriero},
+      year={2025},
+      eprint={2502.05391},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.05391}, 
+}
 ```
-
 ---
